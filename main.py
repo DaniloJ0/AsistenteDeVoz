@@ -1,2 +1,2 @@
 print("Gooo")
-
+print("Gooo")
