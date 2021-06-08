@@ -1,2 +1,2 @@
 print("goo")
-print("22")
+print("2ee")
